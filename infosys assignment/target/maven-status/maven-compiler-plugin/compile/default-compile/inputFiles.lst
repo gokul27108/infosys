@@ -1,0 +1,9 @@
+C:\infosys assignment\src\main\java\com\example\demo\controller\UserController.java
+C:\infosys assignment\src\main\java\com\example\demo\exception\DuplicateEmailException.java
+C:\infosys assignment\src\main\java\com\example\demo\service\UserService.java
+C:\infosys assignment\src\main\java\com\example\demo\exception\ResourceNotFoundException.java
+C:\infosys assignment\src\main\java\com\example\demo\entity\User.java
+C:\infosys assignment\src\main\java\com\example\demo\DemoApplication.java
+C:\infosys assignment\src\main\java\com\example\demo\exception\GlobalExceptionHandler.java
+C:\infosys assignment\src\main\java\com\example\demo\service\impl\UserServiceImpl.java
+C:\infosys assignment\src\main\java\com\example\demo\repository\UserRepository.java
