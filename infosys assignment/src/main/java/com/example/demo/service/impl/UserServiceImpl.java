@@ -21,7 +21,7 @@ public class UserServiceImpl implements UserService {
     @Override
     public User createUser(User user) {
 
-        // ✅ DUPLICATE EMAIL CHECK
+       
         repository.findByEmail(user.getEmail())
                 .ifPresent(existing -> {
                     throw new DuplicateEmailException("Email already exists");
@@ -54,3 +54,4 @@ public class UserServiceImpl implements UserService {
         repository.deleteById(id);
     }
 }
+
